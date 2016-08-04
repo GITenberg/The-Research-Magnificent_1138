@@ -1,0 +1,31 @@
+_repo: The-Research-Magnificent_1138
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wells, H. G. (Herbert George)
+    alias: Wells, Herbert George
+    birthdate: 1866
+    deathdate: 1946
+    gutenberg_agent_id: '30'
+    url: http://www.gutenberg.org/2009/agents/30
+    wikipedia: http://en.wikipedia.org/wiki/H._G._Wells
+description: "The Research Magnificent is a 1915 novel by H. G. Wells.\n From Wikipedia\
+  \ (CC BY-SA)."
+gutenberg_issued: '1997-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1138'
+  wikidata: Q7760264
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Conduct of life -- Fiction'
+- GITenberg
+title: The Research Magnificent
+url: http://www.gutenberg.org/ebooks/1138
+wikipedia:
+- https://en.wikipedia.org/wiki/The_Research_Magnificent
+- https://uk.wikipedia.org/wiki/%D0%A7%D1%83%D0%B4%D0%BE%D0%B2%D0%B5_%D0%B4%D0%BE%D1%81%D0%BB%D1%96%D0%B4%D0%B6%D0%B5%D0%BD%D0%BD%D1%8F
